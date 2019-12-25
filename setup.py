@@ -10,7 +10,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='django_ymap',
-    version='1.1',
+    version='1.2',
     packages=['django_ymap'],
     include_package_data=True,
     url='https://github.com/xacce/django-simple-yandex-map/',
